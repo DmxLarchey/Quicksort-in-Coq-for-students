@@ -1,5 +1,5 @@
 Require Import Arith.
-Require Import List.
+Require Import List. 
 
 Reserved Notation "x '~p' y" (at level 70, no associativity).
 
