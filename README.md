@@ -16,8 +16,10 @@ de GitHub (Download ZIP) oubien cloner le projet via
 Une fois dans le repertoire des fichiers *.v (code source Coq),
 vous pouvez taper les commandes
 
-```make
-coqide *.v &```
+```
+make
+coqide *.v & 
+```
 
 ---------------------------
 
