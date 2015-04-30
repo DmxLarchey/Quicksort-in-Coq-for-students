@@ -1,12 +1,11 @@
-###Aux étudiants M1 de l'UE *Preuves et démonstrations automatisées*
+#####Aux étudiants M1 de l'UE *Preuves et démonstrations automatisées*
 
 ---------------------------
 
 Bonjour à tous,
 
 Comme indiqué en TP, voici les instructions pour la réalisation
-du TP/projet correspondant à l'UE "Preuves et démonstrations
-automatisées".
+du projet correspondant à l'UE *Preuves et démonstrations automatisées.*
 
 Vous pouvez téléchargez l'archive du projet via l'interface
 de GitHub (Download ZIP) oubien cloner le projet via
@@ -26,8 +25,8 @@ coqide *.v &
 Je vous rappelle que le but du projet est de 
 **compléter les preuves manquantes** ou 
 partiellement manquantes dans les fichiers
-**perm.v, sorted.v et quicksort.v** (elles se
-terminent par *Admitted.*) Quand vous aurez terminé votre travail,
+**perm.v**, **sorted.v** et **quicksort.v** (elles se
+terminent par *Admitted.*) Quand vous aurez terminé,
 toutes vos preuves devraient se terminer par *Qed.*
 
 Le résultat de votre travail est à me rendre par email
@@ -43,7 +42,7 @@ Je vous rappelle en outre qu'aucune preuve nouvelle n'est
 cours. Votre travail est la mise en oeuvre formelle de ces
 preuves informelles dans l'outil Coq.
 
-Enfin, nous organiserons une soutenance sur machine d'une
+Enfin, nous organiserons une **soutenance sur machine** d'une
 durée individuelle d'environ 15m le **jeudi 21 mai 2015**
 (date à confirmer) où vous nous présenterez le résultat de
 votre travail et nous exposerez les éventuelles difficultés
