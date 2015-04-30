@@ -1,4 +1,4 @@
-#Aux étudiants M1 de l'UE "Preuves et démonstrations automatisées"
+Aux étudiants M1 de l'UE "Preuves et démonstrations automatisées"
 
 ---------------------------
 
@@ -11,13 +11,13 @@ automatisées".
 Vous pouvez téléchargez l'archive du projet via l'interface
 de GitHub (Download ZIP) oubien cloner le projet via
 
-git clone https://github.com/DmxLarchey/Quicksort-in-Coq-for-students.git
+```git clone https://github.com/DmxLarchey/Quicksort-in-Coq-for-students.git```
 
-Une fois de le repertoire des fichiers *.v (code source Coq),
-vous pouvez taper
+Une fois dans le repertoire des fichiers *.v (code source Coq),
+vous pouvez taper les commandes
 
-make
-coqide *.v &
+```make
+coqide *.v &```
 
 ---------------------------
 
