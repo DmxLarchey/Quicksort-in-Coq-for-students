@@ -7,7 +7,7 @@ Bonjour à tous,
 Comme indiqué en TP, voici les instructions pour la réalisation
 du projet correspondant à l'UE *Preuves et démonstrations automatisées.*
 
-Vous pouvez téléchargez l'archive du projet via l'interface
+Vous pouvez télécharger l'archive du projet via l'interface
 de GitHub (Download ZIP) oubien cloner le projet via
 
 ```
@@ -38,7 +38,7 @@ de consulter la documentation en ligne de Coq
 http://coq.inria.fr/documentation
 
 Je vous rappelle en outre qu'aucune preuve nouvelle n'est
-à inventer, elles ont toutes été réalisées *à la main* lors du
+à inventer, elles ont toutes été *réalisées à la main* lors du
 cours. Votre travail est la mise en oeuvre formelle de ces
 preuves informelles dans l'outil Coq.
 
