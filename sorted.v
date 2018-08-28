@@ -4,10 +4,13 @@ Require Import Bool.
 
 Require Import list_utils.
 
-Notation le_bool := (NPeano.leb).
+SearchAbout [ le true ].
+
+Notation le_bool := (Nat.leb).
+
 Infix "<b" := le_bool (at level 30, no associativity).
 
-Definition le_bool_le := NPeano.leb_le.
+Definition le_bool_le := Nat.leb_le.
 
 (* don't forget to use these two propositions *)
 
